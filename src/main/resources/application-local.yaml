@@ -1,0 +1,8 @@
+catalog:
+  warehouse: ${WAREHOUSE_PATH}
+  name: catalog
+  db: default_dev
+  shopPageTable: shop_page
+
+data:
+  csvFilePath: ${CSV_FILE}
